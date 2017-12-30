@@ -20,6 +20,8 @@ Cette liste recense les commandes disponibles. Pour plus de détails sur leur ut
 
 **!public-en** : pour passer en invité.e + à interroger les nouveau.lles anglophone. Iels sont dirigé.es vers le salon #english_chat
 
+**!everyone**: image mignonne de notification de everyone
+
 A venir :!admission-en
 
 ### Liens
